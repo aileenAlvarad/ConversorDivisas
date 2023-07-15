@@ -1,4 +1,4 @@
-   <h1 align="center">Proyecto Conversor de Divisas :anchor:</h1>  
+   <h1 align="center">Proyecto Conversor de Divisas :moneybag:</h1>  
 Bienvenidos a mi proyecto. 
 
 Este proyecto es un conversor de divisas desarrollado en Java que permite a los usuarios convertir montos 
@@ -8,8 +8,6 @@ amigable que facilita la conversión entre diferentes divisas.
 El conversor ofrece una amplia selección de divisas: El conversor admite una amplia variedad de monedas internacionales, 
 lo que permite a los usuarios convertir entre diversas opciones.
 
-Para la parte del Front-end estamos utilizando las tecnologias HTML5, CSS, Bootstrap, JavaScript.
-Para la parte del Back-end Java, MySQL y Spring Boot.
 
 | Front-end| Back-end|
 |----------|---------|
